@@ -1,2 +1,2 @@
 # Dovelet
-Algorithm judge (Dovelet.com)
+Algorithm judge
